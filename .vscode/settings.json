@@ -1,0 +1,11 @@
+{
+    "editor.tabSize": 4,
+    "editor.insertSpaces": false,
+    "cmake.buildDirectory": "${workspaceRoot}/build",
+    "search.exclude": {
+        "**/lib": true,
+        "**/build": true,
+        "**/.vscode": true,
+        "**/CMakeLists.txt": true
+    }
+}
